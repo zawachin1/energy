@@ -170,7 +170,6 @@ float: right;/* 画像や箱の回り込み */
 .photo div p {
   color:#000000;
 }
-
 .picture{
   display: grid;
   gap:15px;
@@ -187,7 +186,6 @@ float: right;/* 画像や箱の回り込み */
 }
 
 .item img{
-
   max-width: 100%;
   height: auto;
   }
@@ -219,6 +217,7 @@ float: right;/* 画像や箱の回り込み */
   font-size: 30px;
   font-family: sans-serif;
 }
+
 
 /* ===== 値段表のスタイル ===== */
 /* セクション */
